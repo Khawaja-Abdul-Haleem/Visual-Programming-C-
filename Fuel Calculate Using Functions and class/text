@@ -1,0 +1,12 @@
+Define a class in C# with following description:
+flightNo, destination, distance and fuel (must be private variables). A member function "CALFUEL( )"
+to calculate the value of Fuel as per the following criteria
+
+ Distance                    Fuel
+<=800                        500
+> 800 and <=1800             1500
+> 1800                       3000 
+
+A function “SETDATA( )” allows user to enter values for flight number, destination, distance & call
+function CALFUEL( ) to calculate the quantity of fuel. A function “SHOWDATA( )” allows user to view
+the content of all the data members. Write a main function to demonstrate above class functionalities.
