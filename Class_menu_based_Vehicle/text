@@ -1,0 +1,4 @@
+Create a menu as shown in figure. There are two categories of paying toll vehicles Cat-1 pays
+Rs-30 and Cat-2 pays Rs-50. There are no paying vehicles also. Create functions for each of the
+functionalities given below and show relevant results. This menu continuously runs until user
+presses 9
